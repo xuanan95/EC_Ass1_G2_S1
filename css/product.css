@@ -1,0 +1,123 @@
+ul{
+    list-style: none;
+}
+#rating li{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear: both;
+}
+#state{
+    margin-bottom: 10px;
+}
+#state span:first-child{
+    font-weight: bold;
+    font-size: 15px;
+}
+#state span:nth-child(2){
+    font-weight: bold;
+    font-size: 15px;
+    color: #146121;
+}
+.quantity button{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 100%;
+    background-color: #17ac32;
+    color: white;
+    margin-bottom: 0;
+}
+.quantity input{
+    text-align: center;
+    width: 60px;
+    height: 30px;
+}
+.quantity{
+    height: 42px;
+}
+.quantity span:first-child{
+    font-weight: bold;
+    font-size: 15px;
+}
+#gallery_01{
+    margin-top: 50px;
+}
+#AddToCart span{
+    margin-right: 10px;
+    font-size: 20px;
+}
+#WishList span{
+    margin-right: 10px;
+    color: #c30000;
+    font-size: 20px;
+}
+#WishList,#AddToCart{
+    font-weight: bold;
+}
+#deliver li img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+#deliver li span{
+    margin-left: 10px;
+    font-size: 15px;
+}
+#deliver{
+    border: 1px dashed;
+    padding-left: 10px;
+}
+.li_thongso:hover, .li_danhgia:hover, .li_doitra:hover{
+    cursor: pointer;
+}
+.li_thongso, .li_danhgia, .li_doitra{
+    color: white;
+}
+#showedarea label{
+    font-weight: normal;
+}
+.fix_review{
+    float: left;
+}
+.fix_review table{
+    margin-left: 10px;
+    margin-top: 52px;
+}
+.fix_review table td:nth-child(2){
+    width: 2%;
+}
+.fix_review table td input,.fix_review table td button{
+    margin-bottom: 10px;
+    height: 40px;
+    width: 100%;
+}
+.review_title{
+    font-weight: bold;
+}
+.comment img{
+    height: 15px;
+    width: 15px;
+}
+.usernamecmt{
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.answer,.like{
+    color: #0F71F6;
+}
+.timepost{
+    color: #727272;
+}
+.rating{
+    margin-bottom: 6px;
+}
+.answer:hover,.like:hover{
+    cursor: pointer;
+}
+.comment{
+    border-bottom: 1px dashed #d3d3ca;
+}

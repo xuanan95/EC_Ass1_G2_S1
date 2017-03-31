@@ -1,0 +1,37 @@
+{
+  "results": [
+    {
+      "suggestion": "Nokia 1280",
+      "url": "#"
+    },
+    {
+      "suggestion": "Samsung S7",
+      "url": "#",
+      "attr" : [
+        {
+          "class" : "Nokia N68"
+        }
+      ]
+    },
+    {
+      "suggestion": "iPhone 6",
+      "url": "#"
+    },
+    {
+      "suggestion": "iPhone 7",
+      "url": "#"
+    },
+    {
+      "suggestion": "Macbook Pro",
+      "url": "#"
+    },
+    {
+      "suggestion": "Thẻ nhớ 16GB",
+      "url": "#"
+    },
+    {
+      "suggestion": "USB 100GB",
+      "url": "#"
+    }
+  ]
+}
